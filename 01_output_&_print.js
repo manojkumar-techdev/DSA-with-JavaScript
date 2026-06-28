@@ -13,3 +13,6 @@ let sum = num1 + num2;
 console.log(sum);
 
 
+// print multiple outputs in a single console 
+console.log(3 + 4, 2 + 1);
+
