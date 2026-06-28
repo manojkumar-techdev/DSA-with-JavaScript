@@ -23,3 +23,7 @@ let width = 11;
 const area = length * width;
 console.log(area);        // Area of the rectangle
 console.log(2 * (length + width))    // Perimeter of the rectangle
+
+
+// inserting text between outputs;
+console.log(7, "plus", 3, "equals", 10);
