@@ -16,3 +16,10 @@ console.log(sum);
 // print multiple outputs in a single console 
 console.log(3 + 4, 2 + 1);
 
+
+// area of a rectangle - a simple program
+let length = 13;
+let width = 11;
+const area = length * width;
+console.log(area);        // Area of the rectangle
+console.log(2 * (length + width))    // Perimeter of the rectangle
