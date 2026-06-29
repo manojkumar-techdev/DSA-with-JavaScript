@@ -13,3 +13,9 @@ console.log(number - 1)
 var firstName = "Code";
 var lastName = "Chef";
 console.log(firstName, lastName);
+
+
+// addin tow numbers
+let a = 23
+let b = 20
+console.log(a+b)
