@@ -7,7 +7,7 @@ console.log(age);
 
 // varibale -1 
 var number = 20;
-console.log(number - 1)
+console.log(number - 1);
 
 // console.log multiple varia les in a single line
 var firstName = "Code";
@@ -16,6 +16,14 @@ console.log(firstName, lastName);
 
 
 // addin tow numbers
-let a = 23
-let b = 20
-console.log(a+b)
+let a = 23;
+let b = 20;
+console.log(a+b);
+
+
+
+// area of rectangle
+let length = 76;
+let width = 45;
+let area = length * width;
+console.log(area);
