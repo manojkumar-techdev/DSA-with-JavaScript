@@ -9,6 +9,7 @@ console.log(age);
 var number = 20;
 console.log(number - 1);
 
+
 // console.log multiple varia les in a single line
 var firstName = "Code";
 var lastName = "Chef";
@@ -21,9 +22,15 @@ let b = 20;
 console.log(a+b);
 
 
-
 // area of rectangle
 let length = 76;
 let width = 45;
 let area = length * width;
+console.log(area);
+
+
+// area of circle
+const pi = 3.14;
+var radius = 8.9;
+var area = pi * radius * radius;
 console.log(area);
