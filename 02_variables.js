@@ -34,3 +34,9 @@ const pi = 3.14;
 var radius = 8.9;
 var area = pi * radius * radius;
 console.log(area);
+
+
+// string concatination
+let a = "Learning";
+let b = "is fun!";
+console.log(a +" "+ b);
