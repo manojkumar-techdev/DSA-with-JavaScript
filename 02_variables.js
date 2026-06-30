@@ -40,3 +40,10 @@ console.log(area);
 let a = "Learning";
 let b = "is fun!";
 console.log(a +" "+ b);
+
+
+// boolean values
+var x = true;
+var y = false;
+console.log(x, y);
+
