@@ -11,3 +11,9 @@ console.log(backticksString);
 var x = "Good";
 var y = "Work";
 console.log(x + y);   //output: GoodWork
+
+
+// concatinating two strings using "+" operator
+var x = "Good";
+var y = "Work";
+console.log(x + " " + y);   // output: Good Work
