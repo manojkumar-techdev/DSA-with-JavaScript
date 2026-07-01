@@ -24,3 +24,19 @@ var str1 = "Hello";
 var str2 = "World";
 var result = str1 + " " + str2;
 console.log(result); // Output: Hello World
+
+
+// string and number concatination
+var str = "Hello";
+var num = 42;
+var result = str + num;
+console.log(result); // Output: Hello42
+
+
+// string and boolean concatination
+var str = "Hello";
+var bool = true;
+var result = str + bool;
+console.log(result); // Output: Hellotrue
+
+
